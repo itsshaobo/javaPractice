@@ -31,5 +31,4 @@ public class Q11 {
         }
         return nums[left];
     }
-
 }
